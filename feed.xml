@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+  <channel>
+    <title>Javier's AI Daily</title>
+    <link>https://jteso.github.io/javier-ai-daily-0cfd40/</link>
+    <atom:link href="https://jteso.github.io/javier-ai-daily-0cfd40/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A private, daily teaching-style briefing for an AI and integration engineer in Australia: agents, evals, infrastructure and the AI market, explained in plain language. Made by your Personal Coach.</description>
+    <language>en-au</language>
+    <copyright>Personal Coach</copyright>
+    <lastBuildDate>Fri, 16 Oct 2026 10:00:24 +0000</lastBuildDate>
+    <image><url>https://jteso.github.io/javier-ai-daily-0cfd40/cover.jpg</url><title>Javier's AI Daily</title><link>https://jteso.github.io/javier-ai-daily-0cfd40/</link></image>
+    <itunes:title>Javier's AI Daily</itunes:title>
+    <itunes:subtitle>Sharp ideas for AI engineers</itunes:subtitle>
+    <itunes:summary>A private, daily teaching-style briefing for an AI and integration engineer in Australia: agents, evals, infrastructure and the AI market, explained in plain language. Made by your Personal Coach.</itunes:summary>
+    <itunes:author>Personal Coach</itunes:author>
+    <itunes:owner><itunes:name>Personal Coach</itunes:name></itunes:owner>
+    <itunes:image href="https://jteso.github.io/javier-ai-daily-0cfd40/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>yes</itunes:block>
+    <googleplay:block>yes</googleplay:block>
+    <item>
+      <title>Ep 1 – Agents are outrunning our tools (16 Oct 2026)</title>
+      <description><![CDATA[<p>Agents now write code faster than teams can review, secure or finance it. Today's five stories, explained for an AI/integration engineer.</p><ul><li><a href="https://www.anthropic.com/engineering/redesigning-source-control">Redesigning source control at Anthropic</a>: 2,500 to 30,000+ merges a day; a 7-person team built Scion, an API-first, server-side VCS, in five months.</li><li><a href="https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/">AI coding agents generate more code, but not more software</a> (Ars Technica): Harvard study of 700+ firms, ~30% more code, no change in features shipped, review time +49%.</li><li><a href="https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html">AI agents aren't going rogue: frontier labs are skipping security basics</a> (CSO Online): sandboxing, egress control and monitoring.</li><li><a href="https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/">Banks are offloading AI data centre debt</a>: capital rotating toward hyperscaler-leased sites.</li><li><a href="https://research.meta.ai/blog/muse-spark-open">Meta Muse Spark Open</a>: 816B-parameter (42B active) open-weights model with a 1M-token context.</li></ul><p>Coach's tip: Week 1 starts Monday. Read the <a href="https://hamel.dev/blog/posts/evals-faq/">evals FAQ by Hamel Husain and Shreya Shankar</a>, review 30 agent traces, note the first failure in each and group them into 4-8 failure types.</p>]]></description>
+      <content:encoded><![CDATA[<p>Agents now write code faster than teams can review, secure or finance it. Today's five stories, explained for an AI/integration engineer.</p><ul><li><a href="https://www.anthropic.com/engineering/redesigning-source-control">Redesigning source control at Anthropic</a>: 2,500 to 30,000+ merges a day; a 7-person team built Scion, an API-first, server-side VCS, in five months.</li><li><a href="https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/">AI coding agents generate more code, but not more software</a> (Ars Technica): Harvard study of 700+ firms, ~30% more code, no change in features shipped, review time +49%.</li><li><a href="https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html">AI agents aren't going rogue: frontier labs are skipping security basics</a> (CSO Online): sandboxing, egress control and monitoring.</li><li><a href="https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/">Banks are offloading AI data centre debt</a>: capital rotating toward hyperscaler-leased sites.</li><li><a href="https://research.meta.ai/blog/muse-spark-open">Meta Muse Spark Open</a>: 816B-parameter (42B active) open-weights model with a 1M-token context.</li></ul><p>Coach's tip: Week 1 starts Monday. Read the <a href="https://hamel.dev/blog/posts/evals-faq/">evals FAQ by Hamel Husain and Shreya Shankar</a>, review 30 agent traces, note the first failure in each and group them into 4-8 failure types.</p>]]></content:encoded>
+      <itunes:summary>Agents now write code faster than teams can review, secure or finance it. Today's five stories, explained for an AI/integration engineer.
+- Redesigning source control at Anthropic (https://www.anthropic.com/engineering/redesigning-source-control): 2,500 to 30,000+ merges a day; a 7-person team built Scion, an API-first, server-side VCS, in five months.
+- AI coding agents generate more code, but not more software (https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/) (Ars Technica): Harvard study of 700+ firms, ~30% more code, no change in features shipped, review time +49%.
+- AI agents aren't going rogue: frontier labs are skipping security basics (https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) (CSO Online): sandboxing, egress control and monitoring.
+- Banks are offloading AI data centre debt (https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/): capital rotating toward hyperscaler-leased sites.
+- Meta Muse Spark Open (https://research.meta.ai/blog/muse-spark-open): 816B-parameter (42B active) open-weights model with a 1M-token context.
+Coach's tip: Week 1 starts Monday. Read the evals FAQ by Hamel Husain and Shreya Shankar (https://hamel.dev/blog/posts/evals-faq/), review 30 agent traces, note the first failure in each and group them into 4-8 failure types.</itunes:summary>
+      <enclosure url="https://jteso.github.io/javier-ai-daily-0cfd40/episodes/2026-10-16-ep-1-agents-are-outrunning-our-tools-16-oct-2026.mp3" length="5214035" type="audio/mpeg"/>
+      <guid isPermaLink="false">javiers-ai-daily-2026-10-16-ep-1-agents-are-outrunning-our-tools-16-oct-2026</guid>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 +1100</pubDate>
+      <itunes:duration>00:07:14</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jteso.github.io/javier-ai-daily-0cfd40/cover.jpg"/>
+    </item>
+  </channel>
+</rss>
